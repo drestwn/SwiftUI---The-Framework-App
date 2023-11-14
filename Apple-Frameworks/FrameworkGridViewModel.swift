@@ -15,5 +15,5 @@ final class FrameworkGridViewModel: ObservableObject {
     }
     @Published var isShowingDetailView = false
     
-    
+    //the isShowingDetailView is from here. @published and its should be ObservablObject
 }

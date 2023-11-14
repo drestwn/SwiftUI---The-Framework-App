@@ -23,6 +23,7 @@
 		8542203F2B036A9500AE1ABA /* FrameworkDetailview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkDetailview.swift; sourceTree = "<group>"; };
 		854220412B036E5D00AE1ABA /* TFButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TFButton.swift; sourceTree = "<group>"; };
 		854220432B0371ED00AE1ABA /* FrameworkGridViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameworkGridViewModel.swift; sourceTree = "<group>"; };
+		854220452B037A3600AE1ABA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		85FC1B3C2B032D9E004F4270 /* Apple-Frameworks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Apple-Frameworks.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85FC1B3F2B032D9E004F4270 /* Apple_FrameworksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apple_FrameworksApp.swift; sourceTree = "<group>"; };
 		85FC1B432B032DA1004F4270 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -43,6 +44,7 @@
 		85FC1B332B032D9E004F4270 = {
 			isa = PBXGroup;
 			children = (
+				854220452B037A3600AE1ABA /* README.md */,
 				85FC1B3E2B032D9E004F4270 /* Apple-Frameworks */,
 				85FC1B3D2B032D9E004F4270 /* Products */,
 			);
