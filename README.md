@@ -4,7 +4,7 @@ This repository is for education purposes for learnign SwiftUI
 
 Currently the data is static. Soon will be updated with free API
 
-Learning about Grid, passing value, binding
+Learning about Grid, passing value, and binding.
 
 
 <div align="center">
