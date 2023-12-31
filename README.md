@@ -1,6 +1,6 @@
 #  The Framework App
 
-This repository is for education purposes for learnign SwiftUI
+This repository is for education purposes for learning SwiftUI
 
 Currently the data is static. Soon will be updated with free API
 
